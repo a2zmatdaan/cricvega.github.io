@@ -7,7 +7,9 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [Hyderabad (India) vs Andhra, Elite — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1546547-andhra-vs-hyderabad-india-elite)
+- [Nepal vs Oman, 138th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1554420-oman-vs-nepal-138th-match)
 - [South Africa vs Australia, 2nd Test — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1525660-south-africa-vs-australia-2nd-test)
+- [Afghanistan Under-19s vs Bangladesh Under-19s, 2nd Youth ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558206-afghanistan-under-19s-vs-bangladesh-under-19s-2nd-youth-odi)
 - [Tasmania vs Victoria, 4th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544867-tasmania-vs-victoria-4th-match)
 - [South Australia vs Queensland, 5th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544868-south-australia-vs-queensland-5th-match)
 - [New South Wales vs Western Australia, 6th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544869-western-australia-vs-new-south-wales-6th-match)
@@ -37,8 +39,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Hyderabad Kingsmen Academy vs State Bank of Pakistan, 28th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553804-hyderabad-kingsmen-academy-vs-state-bank-of-pakistan-28th-match)
 - [Khan Research Laboratories vs Sui Northern Gas Pipelines Limited, 26th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553802-khan-research-laboratories-vs-sui-northern-gas-pipelines-limited-26th-match)
 - [Pakistan Television vs Markhor IT Solutions, 27th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553803-pakistan-television-vs-markhor-it-solutions-27th-match)
-- [Oman vs Nepal, 138th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1554420-oman-vs-nepal-138th-match)
-- [Afghanistan Under-19s vs Bangladesh Under-19s, 2nd Youth ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558206-afghanistan-under-19s-vs-bangladesh-under-19s-2nd-youth-odi)
 - [Afghanistan vs Zimbabwe, 2nd Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555118-afghanistan-vs-zimbabwe-2nd-match)
 - [TBA vs TBA, 1st Semi-Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558407-tba-vs-tba-1st-semi-final)
 - [TBA vs TBA, 2nd Semi-Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558408-tba-vs-tba-2nd-semi-final)
