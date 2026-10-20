@@ -36,8 +36,7 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Khan Research Laboratories vs Sui Northern Gas Pipelines Limited, 26th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553802-khan-research-laboratories-vs-sui-northern-gas-pipelines-limited-26th-match)
 - [Markhor IT Solutions vs Pakistan Television, 27th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553803-pakistan-television-vs-markhor-it-solutions-27th-match)
 - [Hyderabad Kingsmen Academy vs State Bank of Pakistan, 28th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553804-hyderabad-kingsmen-academy-vs-state-bank-of-pakistan-28th-match)
-- [TBA vs TBA, 1st Semi-Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558407-tba-vs-tba-1st-semi-final)
-- [TBA vs TBA, 2nd Semi-Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558408-tba-vs-tba-2nd-semi-final)
+- [Sydney Thunder Women vs Sydney Sixers Women, 2nd Semi-Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558408-tba-vs-tba-2nd-semi-final)
 - [Pakistan vs England, 2nd Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1550714-pakistan-vs-england-2nd-match)
 - [Australia Women vs New Zealand Women, 2nd T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1528723-australia-women-vs-new-zealand-women-2nd-t20i)
 - [Uganda vs Zambia, 1st Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557520-uganda-vs-zambia-1st-match)
@@ -46,9 +45,11 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [India Women vs Zimbabwe Women, 3rd T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1535654-india-women-vs-zimbabwe-women-3rd-t20i)
 - [Dolphins vs Warriors, Pool B — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551875-dolphins-vs-warriors-pool-a)
 - [TBA vs TBA, Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558409-tba-vs-tba-final)
+- [Afghanistan Under-19s vs Bangladesh Under-19s, 3rd Youth ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558207-afghanistan-under-19s-vs-bangladesh-under-19s-3rd-youth-odi)
 
 ## Recent results
 
+- [Adelaide Strikers Women vs Perth Scorchers Women, 1st Semi-Final](https://plumbsquare.github.io/cricvega.github.io/match/1558407-tba-vs-tba-1st-semi-final)
 - [Afghanistan vs Zimbabwe, 2nd Match](https://plumbsquare.github.io/cricvega.github.io/match/1555118-afghanistan-vs-zimbabwe-2nd-match)
 - [Nepal vs Oman, 138th Match](https://plumbsquare.github.io/cricvega.github.io/match/1554420-oman-vs-nepal-138th-match)
 - [Afghanistan Under-19s vs Bangladesh Under-19s, 2nd Youth ODI](https://plumbsquare.github.io/cricvega.github.io/match/1558206-afghanistan-under-19s-vs-bangladesh-under-19s-2nd-youth-odi)
@@ -68,7 +69,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Adelaide Strikers Women vs Brisbane Heat Women, 16th Match](https://plumbsquare.github.io/cricvega.github.io/match/1558404-adelaide-strikers-women-vs-brisbane-heat-women-16th-match)
 - [Perth Scorchers Women vs Sydney Thunder Women, 17th Match](https://plumbsquare.github.io/cricvega.github.io/match/1558405-sydney-thunder-women-vs-perth-scorchers-women-17th-match)
 - [Pakistan Association of Hong Kong vs Kowloon Cricket Club, 5th Match](https://plumbsquare.github.io/cricvega.github.io/match/1555412-kowloon-cricket-club-vs-pakistan-association-of-hong-kong-5th-match)
-- [Diasqua Little Sai Wan Cricket Club vs United Services Recreation Club, 4th Match](https://plumbsquare.github.io/cricvega.github.io/match/1555411-diasqua-little-sai-wan-cricket-club-vs-united-services-recreation-club-4th-match)
 
 ## Series
 
