@@ -8,8 +8,8 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 
 - [Hyderabad (India) vs Andhra, Elite — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1546547-andhra-vs-hyderabad-india-elite)
 - [South Africa vs Australia, 2nd Test — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1525660-south-africa-vs-australia-2nd-test)
+- [Afghanistan Under-19s vs Bangladesh Under-19s, 3rd Youth ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558207-afghanistan-under-19s-vs-bangladesh-under-19s-3rd-youth-odi)
 - [Tasmania vs Victoria, 4th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544867-tasmania-vs-victoria-4th-match)
-- [South Australia vs Queensland, 5th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544868-south-australia-vs-queensland-5th-match)
 - [New South Wales vs Western Australia, 6th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544869-western-australia-vs-new-south-wales-6th-match)
 - [Meghalaya vs Manipur, Plate Group — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1546559-meghalaya-vs-manipur-plate-group)
 - [Mizoram vs Nagaland, Plate Group — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1546561-nagaland-vs-mizoram-plate-group)
@@ -23,14 +23,12 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Rajasthan vs Railways, Elite — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1546558-rajasthan-vs-railways-elite)
 - [Sylhet Division vs Rangpur Division, 9th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555673-sylhet-division-vs-rangpur-division-9th-match)
 - [Mymensingh Division vs Dhaka Division, 10th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555674-mymensingh-division-vs-dhaka-division-10th-match)
-- [Khulna Division vs Chattogram Division, 11th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555675-khulna-division-vs-chattogram-division-11th-match)
 - [Barishal Division vs Rajshahi Division, 12th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555676-rajshahi-division-vs-barishal-division-12th-match)
 - [Ghani vs Oil & Gas Development Company Limited, 25th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553801-ghani-vs-oil-and-gas-development-company-limited-25th-match)
 - [Khan Research Laboratories vs Sui Northern Gas Pipelines Limited, 26th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553802-khan-research-laboratories-vs-sui-northern-gas-pipelines-limited-26th-match)
 - [Markhor IT Solutions vs Pakistan Television, 27th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553803-pakistan-television-vs-markhor-it-solutions-27th-match)
 - [Hyderabad Kingsmen Academy vs State Bank of Pakistan, 28th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553804-hyderabad-kingsmen-academy-vs-state-bank-of-pakistan-28th-match)
 - [Perth Scorchers Women vs Sydney Sixers Women, Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558409-tba-vs-tba-final)
-- [Afghanistan Under-19s vs Bangladesh Under-19s, 3rd Youth ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558207-afghanistan-under-19s-vs-bangladesh-under-19s-3rd-youth-odi)
 - [Gambia vs Mozambique, 4th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557523-gambia-vs-mozambique-4th-match)
 - [Lesotho vs Uganda, 5th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557524-lesotho-vs-uganda-5th-match)
 - [Northern Cape vs South Western Districts, Pool B — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551877-northern-cape-vs-south-western-districts-pool-a)
@@ -46,6 +44,8 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Easterns vs KwaZulu-Natal Inland, Pool A — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551878-easterns-vs-kwazulu-natal-inland-pool-b)
 - [Afghanistan Under-19s vs Bangladesh Under-19s, 4th Youth ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558208-afghanistan-under-19s-vs-bangladesh-under-19s-4th-youth-odi)
 - [India Women vs Zimbabwe Women, 1st ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1535655-india-women-vs-zimbabwe-women-1st-odi)
+- [Lesotho vs Zambia, 8th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557527-lesotho-vs-zambia-8th-match)
+- [Nigeria vs Mozambique, 7th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557526-nigeria-vs-mozambique-7th-match)
 
 ## Recent results
 
@@ -61,6 +61,7 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Afghanistan vs Zimbabwe, 2nd Match](https://plumbsquare.github.io/cricvega.github.io/match/1555118-afghanistan-vs-zimbabwe-2nd-match)
 - [Nepal vs Oman, 138th Match](https://plumbsquare.github.io/cricvega.github.io/match/1554420-oman-vs-nepal-138th-match)
 - [Afghanistan Under-19s vs Bangladesh Under-19s, 2nd Youth ODI](https://plumbsquare.github.io/cricvega.github.io/match/1558206-afghanistan-under-19s-vs-bangladesh-under-19s-2nd-youth-odi)
+- [South Australia vs Queensland, 5th Match](https://plumbsquare.github.io/cricvega.github.io/match/1544868-south-australia-vs-queensland-5th-match)
 - [Zimbabwe Women vs India Women, 2nd T20I](https://plumbsquare.github.io/cricvega.github.io/match/1535653-india-women-vs-zimbabwe-women-2nd-t20i)
 - [Northern Cape vs Lions, Pool B](https://plumbsquare.github.io/cricvega.github.io/match/1551873-lions-vs-northern-cape-pool-a)
 - [Romania Women vs Bulgaria Women, 3rd Place play-off](https://plumbsquare.github.io/cricvega.github.io/match/1558251-tba-vs-tba-final)
@@ -68,7 +69,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [New Zealand Women vs Australia Women, 1st T20I](https://plumbsquare.github.io/cricvega.github.io/match/1528722-australia-women-vs-new-zealand-women-1st-t20i)
 - [Sydney Sixers Women vs Melbourne Stars Women, 18th Match](https://plumbsquare.github.io/cricvega.github.io/match/1558406-sydney-sixers-women-vs-melbourne-stars-women-18th-match)
 - [Border Women vs Boland Women, Coastal Pool](https://plumbsquare.github.io/cricvega.github.io/match/1554124-border-women-vs-boland-women-coastal-pool)
-- [Western Province Women vs Lions Women, 6th Match](https://plumbsquare.github.io/cricvega.github.io/match/1554065-lions-women-vs-western-province-women-6th-match)
 
 ## Series
 
