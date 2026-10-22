@@ -7,7 +7,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [South Africa vs Australia, 2nd Test — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1525660-south-africa-vs-australia-2nd-test)
-- [Tasmania vs Victoria, 4th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544867-tasmania-vs-victoria-4th-match)
 - [New South Wales vs Western Australia, 6th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544869-western-australia-vs-new-south-wales-6th-match)
 - [Ghani vs Oil & Gas Development Company Limited, 25th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553801-ghani-vs-oil-and-gas-development-company-limited-25th-match)
 - [Khan Research Laboratories vs Sui Northern Gas Pipelines Limited, 26th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553802-khan-research-laboratories-vs-sui-northern-gas-pipelines-limited-26th-match)
@@ -46,6 +45,7 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Mexico Women vs Argentina Women, 1st T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558571-mexico-women-vs-argentina-women-1st-t20i)
 - [Knights vs Mpumalanga, Pool A — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551881-knights-vs-mpumalanga-pool-a)
 - [Mexico Women vs Argentina Women, 2nd T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558572-mexico-women-vs-argentina-women-2nd-t20i)
+- [Limpopo Women vs North West Women, Inland Pool — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1554127-limpopo-women-vs-north-west-women-inland-pool)
 
 ## Recent results
 
