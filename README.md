@@ -6,12 +6,8 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 
 ## 🔴 Live & upcoming matches (auto-updated)
 
-- [Zimbabwe Women vs India Women, 1st ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1535655-india-women-vs-zimbabwe-women-1st-odi)
 - [Zimbabwe vs Afghanistan, Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1556871-tba-vs-tba-final)
-- [Mountaineers vs Matabeleland Tuskers, 1st Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559681-mountaineers-vs-matabeleland-tuskers-1st-match)
-- [Mashonaland Eagles vs Southern Rocks, 2nd Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559682-mashonaland-eagles-vs-southern-rocks-2nd-match)
-- [Gambia vs Uganda, 9th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557528-gambia-vs-uganda-9th-match)
-- [Dolphins vs South Western Districts, Pool B — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551880-dolphins-vs-south-western-districts-pool-a)
+- [South Western Districts vs Dolphins, Pool B — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551880-dolphins-vs-south-western-districts-pool-a)
 - [New Zealand A vs India A, 1st unofficial Test — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1552529-new-zealand-a-vs-india-a-1st-unofficial-test)
 - [Tasmania vs Victoria, 11th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544852-tasmania-vs-victoria-11th-match)
 - [Dhaka Division vs Rajshahi Division, 15th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555679-dhaka-division-vs-rajshahi-division-15th-match)
@@ -46,11 +42,19 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Titans Women vs Western Province Women, 7th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1554066-titans-women-vs-western-province-women-7th-match)
 - [India Women vs Zimbabwe Women, 2nd ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1535656-india-women-vs-zimbabwe-women-2nd-odi)
 - [Gambia vs Lesotho, 13th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557532-gambia-vs-lesotho-13th-match)
+- [Mozambique vs Zambia, 14th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557533-mozambique-vs-zambia-14th-match)
+- [Boland vs Titans, Pool A — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551884-boland-vs-titans-pool-a)
+- [Easterns vs South Africa Emerging Players, Pool A — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551887-easterns-vs-south-africa-emerging-players-pool-a)
+- [KwaZulu-Natal Inland vs Western Province, Pool A — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551886-kwazulu-natal-inland-vs-western-province-pool-a)
 
 ## Recent results
 
+- [Gambia vs Uganda, 9th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557528-gambia-vs-uganda-9th-match)
 - [Mozambique vs Nigeria, 7th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557526-nigeria-vs-mozambique-7th-match)
 - [Lesotho vs Zambia, 8th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557527-lesotho-vs-zambia-8th-match)
+- [Zimbabwe Women vs India Women, 1st ODI](https://plumbsquare.github.io/cricvega.github.io/match/1535655-india-women-vs-zimbabwe-women-1st-odi)
+- [Mountaineers vs Matabeleland Tuskers, 1st Match](https://plumbsquare.github.io/cricvega.github.io/match/1559681-mountaineers-vs-matabeleland-tuskers-1st-match)
+- [Mashonaland Eagles vs Southern Rocks, 2nd Match](https://plumbsquare.github.io/cricvega.github.io/match/1559682-mashonaland-eagles-vs-southern-rocks-2nd-match)
 - [Bangladesh Under-19s vs Afghanistan Under-19s, 4th Youth ODI](https://plumbsquare.github.io/cricvega.github.io/match/1558208-afghanistan-under-19s-vs-bangladesh-under-19s-4th-youth-odi)
 - [Easterns vs KwaZulu-Natal Inland, Pool A](https://plumbsquare.github.io/cricvega.github.io/match/1551878-easterns-vs-kwazulu-natal-inland-pool-b)
 - [South Africa Emerging Players vs Mpumalanga, Pool A](https://plumbsquare.github.io/cricvega.github.io/match/1551879-mpumalanga-vs-south-africa-emerging-players-pool-b)
@@ -65,10 +69,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Zambia vs Nigeria, 6th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557525-nigeria-vs-zambia-6th-match)
 - [Bangladesh vs Afghanistan, 3rd Match](https://plumbsquare.github.io/cricvega.github.io/match/1555119-afghanistan-vs-bangladesh-3rd-match)
 - [Northern Cape vs South Western Districts, Pool B](https://plumbsquare.github.io/cricvega.github.io/match/1551877-northern-cape-vs-south-western-districts-pool-a)
-- [Mozambique vs Gambia, 4th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557523-gambia-vs-mozambique-4th-match)
-- [Lesotho vs Uganda, 5th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557524-lesotho-vs-uganda-5th-match)
-- [Kenya vs Denmark, 31st Match](https://plumbsquare.github.io/cricvega.github.io/match/1559440-kenya-vs-denmark-31st-match)
-- [Afghanistan Under-19s vs Bangladesh Under-19s, 3rd Youth ODI](https://plumbsquare.github.io/cricvega.github.io/match/1558207-afghanistan-under-19s-vs-bangladesh-under-19s-3rd-youth-odi)
 
 ## Series
 
@@ -80,6 +80,7 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [United Arab Emirates Tri-Nation Series](https://plumbsquare.github.io/cricvega.github.io/series/10931-united-arab-emirates-tri-nation-series)
 - [South Africa Domestic T20/Pro20](https://plumbsquare.github.io/cricvega.github.io/series/8656-south-africa-domestic-t20-pro20)
 - [India A tour of New Zealand 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24805-india-a-tour-of-new-zealand-2026-27)
+- [Australian Domestic One-Day Competition](https://plumbsquare.github.io/cricvega.github.io/series/8626-australian-domestic-one-day-competition)
 - [India tour of New Zealand 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24469-india-tour-of-new-zealand-2026-27)
 - [CWC Challenge League Group A](https://plumbsquare.github.io/cricvega.github.io/series/19553-cwc-challenge-league-group-a)
 - [Sheffield Shield](https://plumbsquare.github.io/cricvega.github.io/series/8043-sheffield-shield)
@@ -88,7 +89,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Ireland tour of Namibia 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24830-ireland-tour-of-namibia-2026-27)
 - [Pakistan ODI Tri-Series](https://plumbsquare.github.io/cricvega.github.io/series/1550706-pakistan-odi-tri-series)
 - [New Zealand Women tour of Australia 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24268-new-zealand-women-tour-of-australia-2026-27)
-- [Australian Domestic One-Day Competition](https://plumbsquare.github.io/cricvega.github.io/series/8626-australian-domestic-one-day-competition)
 - [National Cricket League](https://plumbsquare.github.io/cricvega.github.io/series/8814-national-cricket-league)
 - [CSA Women Pro50 Series 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/1554058-csa-women-pro50-series-2026-27)
 - [Argentina Women tour of Mexico 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24838-argentina-women-tour-of-mexico-2026-27)
