@@ -7,15 +7,14 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [India A vs New Zealand A, 1st unofficial Test — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1552529-new-zealand-a-vs-india-a-1st-unofficial-test)
-- [Victoria vs Tasmania, 11th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544852-tasmania-vs-victoria-11th-match)
+- [New Zealand vs India, 2nd T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1539433-new-zealand-vs-india-2nd-t20i)
+- [Denmark vs Kuwait, 34th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559443-denmark-vs-kuwait-34th-match)
+- [Kenya vs Qatar, 35th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559444-kenya-vs-qatar-35th-match)
+- [New South Wales vs Western Australia, 12th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544853-western-australia-vs-new-south-wales-12th-match)
 - [Dhaka Division vs Rajshahi Division, 15th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555679-dhaka-division-vs-rajshahi-division-15th-match)
 - [Mymensingh Division vs Chattogram Division, 14th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555678-mymensingh-division-vs-chattogram-division-14th-match)
 - [Rangpur Division vs Barishal Division, 16th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555680-rangpur-division-vs-barishal-division-16th-match)
 - [Sylhet Division vs Khulna Division, 13th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1555677-sylhet-division-vs-khulna-division-13th-match)
-- [Western Australia vs New South Wales, 12th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1544853-western-australia-vs-new-south-wales-12th-match)
-- [Denmark vs Kuwait, 34th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559443-denmark-vs-kuwait-34th-match)
-- [Kenya vs Qatar, 35th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559444-kenya-vs-qatar-35th-match)
-- [New Zealand vs India, 2nd T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1539433-new-zealand-vs-india-2nd-t20i)
 - [Namibia vs Ireland, 2nd ODI — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558232-namibia-vs-ireland-2nd-odi)
 - [South Western Districts Women vs Eastern Province Women, 8th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1554096-south-western-districts-women-vs-eastern-province-women-8th-match)
 - [Titans Women vs Western Province Women, 7th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1554095-titans-women-vs-western-province-women-7th-match)
@@ -24,7 +23,9 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Lions vs Limpopo, Pool B — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551882-lions-vs-limpopo-pool-b)
 - [Gambia vs Zambia, 11th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557530-gambia-vs-zambia-11th-match)
 - [Nigeria vs Lesotho, 12th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557531-nigeria-vs-lesotho-12th-match)
+- [Mexico Women vs Argentina Women, 1st T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558571-mexico-women-vs-argentina-women-1st-t20i)
 - [Knights vs Mpumalanga, Pool A — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551881-knights-vs-mpumalanga-pool-a)
+- [Mexico Women vs Argentina Women, 2nd T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558572-mexico-women-vs-argentina-women-2nd-t20i)
 - [State Bank of Pakistan vs Markhor IT Solutions, Final — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1553805-tba-vs-tba-final)
 - [United Arab Emirates vs Netherlands, 139th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559563-united-arab-emirates-vs-netherlands-139th-match)
 - [Denmark vs Papua New Guinea, 37th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1559446-denmark-vs-papua-new-guinea-37th-match)
@@ -45,10 +46,10 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [North West vs Northern Cape, Pool B — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1551885-north-west-vs-northern-cape-pool-b)
 - [Nigeria vs Uganda, 15th Match — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1557534-nigeria-vs-uganda-15th-match)
 - [Mexico Women vs Argentina Women, 3rd T20I — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1558573-mexico-women-vs-argentina-women-3rd-t20i)
-- [Sikkim vs Nagaland, Plate Group — Preview](https://plumbsquare.github.io/cricvega.github.io/match/1546580-sikkim-vs-nagaland-plate-group)
 
 ## Recent results
 
+- [Victoria vs Tasmania, 11th Match](https://plumbsquare.github.io/cricvega.github.io/match/1544852-tasmania-vs-victoria-11th-match)
 - [South Western Districts vs Dolphins, Pool B](https://plumbsquare.github.io/cricvega.github.io/match/1551880-dolphins-vs-south-western-districts-pool-a)
 - [Gambia vs Uganda, 9th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557528-gambia-vs-uganda-9th-match)
 - [Zimbabwe vs Afghanistan, Final](https://plumbsquare.github.io/cricvega.github.io/match/1556871-tba-vs-tba-final)
@@ -68,7 +69,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [Kuwait vs Qatar, 33rd Match](https://plumbsquare.github.io/cricvega.github.io/match/1559442-kuwait-vs-qatar-33rd-match)
 - [Bangladesh Cricket Board XI vs West Indies, Tour Match](https://plumbsquare.github.io/cricvega.github.io/match/1553294-tba-vs-west-indies-tour-match)
 - [Limpopo vs North West, Pool B](https://plumbsquare.github.io/cricvega.github.io/match/1551876-north-west-vs-limpopo-pool-a)
-- [Zambia vs Nigeria, 6th Match](https://plumbsquare.github.io/cricvega.github.io/match/1557525-nigeria-vs-zambia-6th-match)
 
 ## Series
 
@@ -81,6 +81,7 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [CSA Women Pro50 Series 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/1554058-csa-women-pro50-series-2026-27)
 - [ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C](https://plumbsquare.github.io/cricvega.github.io/series/23028-icc-men-s-t20-world-cup-sub-regional-africa-qualifier-group-c)
 - [South Africa Domestic T20/Pro20](https://plumbsquare.github.io/cricvega.github.io/series/8656-south-africa-domestic-t20-pro20)
+- [Argentina Women tour of Mexico 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24838-argentina-women-tour-of-mexico-2026-27)
 - [West Indies tour of Bangladesh 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24756-west-indies-tour-of-bangladesh-2026-27)
 - [Bangladesh Under-19s tour of Oman 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24831-bangladesh-under-19s-tour-of-oman-2026-27)
 - [Pro50 Championship](https://plumbsquare.github.io/cricvega.github.io/series/8838-pro50-championship)
@@ -91,7 +92,6 @@ Website: https://plumbsquare.github.io/cricvega.github.io/ — free live cricket
 - [CSA Women's Division Two T20](https://plumbsquare.github.io/cricvega.github.io/series/22562-csa-women-s-division-two-t20)
 - [Pakistan ODI Tri-Series](https://plumbsquare.github.io/cricvega.github.io/series/1550706-pakistan-odi-tri-series)
 - [CSA Women Pro20 Series 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/1554057-csa-women-pro20-series-2026-27)
-- [Argentina Women tour of Mexico 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24838-argentina-women-tour-of-mexico-2026-27)
 - [Sheffield Shield](https://plumbsquare.github.io/cricvega.github.io/series/8043-sheffield-shield)
 - [Australia tour of South Africa 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24203-australia-tour-of-south-africa-2026-27)
 - [New Zealand Women tour of Australia 2026/27](https://plumbsquare.github.io/cricvega.github.io/series/24268-new-zealand-women-tour-of-australia-2026-27)
