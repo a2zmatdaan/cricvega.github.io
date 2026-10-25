@@ -7,12 +7,11 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [India A vs New Zealand A, 1st unofficial Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1552529-new-zealand-a-vs-india-a-1st-unofficial-test)
-- [Mexico Women vs Argentina Women, 2nd T20I — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558572-mexico-women-vs-argentina-women-2nd-t20i)
+- [United Arab Emirates vs Netherlands, 139th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559563-united-arab-emirates-vs-netherlands-139th-match)
 - [Sylhet Division vs Khulna Division, 13th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555677-sylhet-division-vs-khulna-division-13th-match)
 - [Mymensingh Division vs Chattogram Division, 14th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555678-mymensingh-division-vs-chattogram-division-14th-match)
 - [Dhaka Division vs Rajshahi Division, 15th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555679-dhaka-division-vs-rajshahi-division-15th-match)
 - [Rangpur Division vs Barishal Division, 16th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555680-rangpur-division-vs-barishal-division-16th-match)
-- [United Arab Emirates vs Netherlands, 139th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559563-united-arab-emirates-vs-netherlands-139th-match)
 - [Denmark vs Papua New Guinea, 37th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559446-denmark-vs-papua-new-guinea-37th-match)
 - [Kenya vs Jersey, 36th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559445-kenya-vs-jersey-36th-match)
 - [Mountaineers vs Matabeleland Tuskers, 3rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559683-mountaineers-vs-matabeleland-tuskers-3rd-match)
@@ -30,12 +29,13 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [KwaZulu-Natal Inland vs Western Province, Pool A — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1551886-kwazulu-natal-inland-vs-western-province-pool-a)
 - [North West vs Northern Cape, Pool B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1551885-north-west-vs-northern-cape-pool-b)
 - [Nigeria vs Uganda, 15th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557534-nigeria-vs-uganda-15th-match)
+- [Mexico Women vs Argentina Women, 3rd T20I — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558573-mexico-women-vs-argentina-women-3rd-t20i)
 - [Sikkim vs Nagaland, Plate Group — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546580-sikkim-vs-nagaland-plate-group)
 - [Jharkhand vs Delhi, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546570-jharkhand-vs-delhi-elite)
 - [Odisha vs Services, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546573-odisha-vs-services-elite)
-- [Chhattisgarh vs Andhra, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546569-chhattisgarh-vs-andhra-elite)
 - [Baroda vs Jammu & Kashmir, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546562-baroda-vs-jammu-and-kashmir-elite)
 - [Chandigarh vs Himachal Pradesh, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546577-chandigarh-vs-himachal-pradesh-elite)
+- [Chhattisgarh vs Andhra, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546569-chhattisgarh-vs-andhra-elite)
 - [Hyderabad (India) vs Punjab, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546566-hyderabad-india-vs-punjab-elite)
 - [Karnataka vs Tripura, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546567-karnataka-vs-tripura-elite)
 - [Kerala vs Bengal, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546572-kerala-vs-bengal-elite)
@@ -49,6 +49,7 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 
 ## Recent results
 
+- [Argentina Women vs Mexico Women, 2nd T20I](https://a2zmatdaan.github.io/cricvega.github.io/match/1558572-mexico-women-vs-argentina-women-2nd-t20i)
 - [Knights vs Mpumalanga, Pool A](https://a2zmatdaan.github.io/cricvega.github.io/match/1551881-knights-vs-mpumalanga-pool-a)
 - [Argentina Women vs Mexico Women, 1st T20I](https://a2zmatdaan.github.io/cricvega.github.io/match/1558571-mexico-women-vs-argentina-women-1st-t20i)
 - [Gambia vs Zambia, 11th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557530-gambia-vs-zambia-11th-match)
@@ -68,7 +69,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Gambia vs Uganda, 9th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557528-gambia-vs-uganda-9th-match)
 - [Zimbabwe vs Afghanistan, Final](https://a2zmatdaan.github.io/cricvega.github.io/match/1556871-tba-vs-tba-final)
 - [Mozambique vs Nigeria, 7th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557526-nigeria-vs-mozambique-7th-match)
-- [Lesotho vs Zambia, 8th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557527-lesotho-vs-zambia-8th-match)
 
 ## Series
 
@@ -76,7 +76,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [ICC Men's Cricket World Cup League 2](https://a2zmatdaan.github.io/cricvega.github.io/series/19439-icc-men-s-cricket-world-cup-league-2)
 - [India A tour of New Zealand 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24805-india-a-tour-of-new-zealand-2026-27)
 - [National Cricket League](https://a2zmatdaan.github.io/cricvega.github.io/series/8814-national-cricket-league)
-- [Argentina Women tour of Mexico 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24838-argentina-women-tour-of-mexico-2026-27)
 - [Pro50 Championship](https://a2zmatdaan.github.io/cricvega.github.io/series/8838-pro50-championship)
 - [CSA Women's Division Two T20](https://a2zmatdaan.github.io/cricvega.github.io/series/22562-csa-women-s-division-two-t20)
 - [Pakistan ODI Tri-Series](https://a2zmatdaan.github.io/cricvega.github.io/series/1550706-pakistan-odi-tri-series)
@@ -84,6 +83,7 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Zimbabwe Women tour of India 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24371-zimbabwe-women-tour-of-india-2026-27)
 - [ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C](https://a2zmatdaan.github.io/cricvega.github.io/series/23028-icc-men-s-t20-world-cup-sub-regional-africa-qualifier-group-c)
 - [South Africa Domestic T20/Pro20](https://a2zmatdaan.github.io/cricvega.github.io/series/8656-south-africa-domestic-t20-pro20)
+- [Argentina Women tour of Mexico 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24838-argentina-women-tour-of-mexico-2026-27)
 - [Australian Domestic One-Day Competition](https://a2zmatdaan.github.io/cricvega.github.io/series/8626-australian-domestic-one-day-competition)
 - [India tour of New Zealand 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24469-india-tour-of-new-zealand-2026-27)
 - [Ireland tour of Namibia 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24830-ireland-tour-of-namibia-2026-27)
