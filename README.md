@@ -9,10 +9,8 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [South Africa vs Australia, 3rd Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1525661-south-africa-vs-australia-3rd-test)
 - [Bangladesh vs West Indies, 1st Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1553295-bangladesh-vs-west-indies-1st-test)
 - [Western Australia vs South Australia, 7th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544870-south-australia-vs-western-australia-7th-match)
-- [Markhor IT Solutions vs State Bank of Pakistan, Final — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1553805-tba-vs-tba-final)
-- [Toronto Kings vs Mississauga Skyhawks, 11th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559962-mississauga-skyhawks-vs-toronto-kings-11th-match)
 - [Tasmania vs New South Wales, 8th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544871-tasmania-vs-new-south-wales-8th-match)
-- [Hong Kong vs Australia, Group A — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559193-hong-kong-vs-australia-group-a)
+- [Markhor IT Solutions vs State Bank of Pakistan, Final — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1553805-tba-vs-tba-final)
 - [Bangladesh vs Scotland, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559194-bangladesh-vs-scotland-group-b)
 - [Pakistan vs United Arab Emirates, Group C — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559195-pakistan-vs-united-arab-emirates-group-c)
 - [Oman vs South Africa, Group D — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559196-oman-vs-south-africa-group-d)
@@ -46,6 +44,8 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [TBA vs TBA, Plate — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559207-tba-vs-tba-plate)
 - [United Arab Emirates vs Netherlands, 142nd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559566-united-arab-emirates-vs-netherlands-142nd-match)
 - [TBA vs TBA, Plate — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559208-tba-vs-tba-plate)
+- [Jersey vs Qatar, 45th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559454-jersey-vs-qatar-45th-match)
+- [Kenya vs Papua New Guinea, 44th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559453-kenya-vs-papua-new-guinea-44th-match)
 
 ## Recent results
 
@@ -57,6 +57,8 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Ireland Women vs Sri Lanka Women, 1st Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557543-ireland-women-vs-sri-lanka-women-1st-match)
 - [Papua New Guinea Women vs Scotland Women, 2nd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557544-papua-new-guinea-women-vs-scotland-women-2nd-match)
 - [Thailand Women vs Netherlands Women, 4th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557546-thailand-women-vs-netherlands-women-4th-match)
+- [Australia vs Hong Kong, Group A](https://a2zmatdaan.github.io/cricvega.github.io/match/1559193-hong-kong-vs-australia-group-a)
+- [Toronto Kings vs Mississauga Skyhawks, 11th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1559962-mississauga-skyhawks-vs-toronto-kings-11th-match)
 - [Afghanistan vs Zimbabwe, 2nd T20I](https://a2zmatdaan.github.io/cricvega.github.io/match/1555121-afghanistan-vs-zimbabwe-2nd-t20i)
 - [Montreal Warriors vs Vancouver Guardians, 10th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1559961-montreal-warriors-vs-vancouver-guardians-10th-match)
 - [Titans vs South Western Districts, Super Eights](https://a2zmatdaan.github.io/cricvega.github.io/match/1551889-tba-vs-tba-super-eights)
@@ -67,8 +69,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Oman vs United Arab Emirates, 141st Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1559565-united-arab-emirates-vs-oman-141st-match)
 - [Melbourne Renegades Women vs Sydney Thunder Women, 1st Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1543944-melbourne-renegades-women-vs-sydney-thunder-women-1st-match)
 - [Mississauga Skyhawks vs Toronto Kings, 9th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1559960-mississauga-skyhawks-vs-toronto-kings-9th-match)
-- [Wellington vs Otago, 3rd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1550286-wellington-vs-otago-3rd-match)
-- [Easterns vs Lions, Super Eights](https://a2zmatdaan.github.io/cricvega.github.io/match/1551888-tba-vs-tba-super-eights)
 
 ## Series
 
