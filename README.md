@@ -14,8 +14,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Sylhet Division vs Chattogram Division, 17th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555681-sylhet-division-vs-chattogram-division-17th-match)
 - [Khulna Division vs Mymensingh Division, 18th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555682-mymensingh-division-vs-khulna-division-18th-match)
 - [Rajshahi Division vs Rangpur Division, 20th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555684-rangpur-division-vs-rajshahi-division-20th-match)
-- [Mississauga Skyhawks vs Brampton Blazers, 15th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559966-brampton-blazers-vs-mississauga-skyhawks-15th-match)
-- [Bangladesh vs India, 11th Place Play-off — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559211-tba-vs-tba-11th-place-play-off)
 - [Hong Kong vs Sri Lanka, 7th Place Play-off — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559212-tba-vs-tba-7th-place-play-off)
 - [Scotland vs United Arab Emirates, 3rd Place Play-off — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559213-tba-vs-tba-3rd-place-play-off)
 - [Sydney Thunder Women vs Brisbane Heat Women, 6th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543949-sydney-thunder-women-vs-brisbane-heat-women-6th-match)
@@ -46,9 +44,13 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Mizoram vs Arunachal Pradesh, Plate Group — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546599-mizoram-vs-arunachal-pradesh-plate-group)
 - [Punjab vs Andhra, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546587-punjab-vs-andhra-elite)
 - [Railways vs Mumbai, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546595-railways-vs-mumbai-elite)
+- [Tripura vs Saurashtra, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546588-tripura-vs-saurashtra-elite)
+- [Uttar Pradesh vs Baroda, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546581-uttar-pradesh-vs-baroda-elite)
 
 ## Recent results
 
+- [Bangladesh vs India, 11th Place Play-off](https://a2zmatdaan.github.io/cricvega.github.io/match/1559211-tba-vs-tba-11th-place-play-off)
+- [Mississauga Skyhawks vs Brampton Blazers, 15th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1559966-brampton-blazers-vs-mississauga-skyhawks-15th-match)
 - [Western Province vs Warriors, Super Eights](https://a2zmatdaan.github.io/cricvega.github.io/match/1551891-tba-vs-tba-super-eights)
 - [Montreal Warriors vs Vancouver Guardians, 14th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1559965-montreal-warriors-vs-vancouver-guardians-14th-match)
 - [Easterns vs South Western Districts, Super Eights](https://a2zmatdaan.github.io/cricvega.github.io/match/1551890-tba-vs-tba-super-eights)
@@ -67,8 +69,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [England vs India, Bowl](https://a2zmatdaan.github.io/cricvega.github.io/match/1559206-tba-vs-tba-bowl)
 - [Bangladesh vs South Africa, Bowl](https://a2zmatdaan.github.io/cricvega.github.io/match/1559205-tba-vs-tba-bowl)
 - [India vs United Arab Emirates, Group C](https://a2zmatdaan.github.io/cricvega.github.io/match/1559204-india-vs-united-arab-emirates-group-c)
-- [Scotland vs Sri Lanka, Group B](https://a2zmatdaan.github.io/cricvega.github.io/match/1559203-scotland-vs-sri-lanka-group-b)
-- [Oman vs Afghanistan, Group D](https://a2zmatdaan.github.io/cricvega.github.io/match/1559202-afghanistan-vs-oman-group-d)
 
 ## Series
 
