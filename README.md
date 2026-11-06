@@ -8,6 +8,9 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 
 - [West Indies vs Bangladesh, 2nd Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1553296-bangladesh-vs-west-indies-2nd-test)
 - [Zimbabwe vs Afghanistan, 1st Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555123-afghanistan-vs-zimbabwe-1st-test)
+- [United Arab Emirates Under-19s vs Pakistan Under-19s, 3rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558432-pakistan-under-19s-vs-united-arab-emirates-under-19s-3rd-match)
+- [Uganda Women vs Namibia Women, 1st Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560718-uganda-women-vs-namibia-women-1st-match)
+- [Sydney Sixers Women vs Melbourne Stars Women, 12th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543955-melbourne-stars-women-vs-sydney-sixers-women-12th-match)
 - [Hyderabad Region vs Dera Murad Jamali Region, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561212-dera-murad-jamali-region-vs-hyderabad-region-group-b)
 - [Sialkot Region Blues vs Karachi Region Blues, 1st Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561014-karachi-region-blues-vs-sialkot-region-blues-1st-match)
 - [Peshawar Region Blues vs Faisalabad Region, 2nd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561015-faisalabad-region-vs-peshawar-region-blues-2nd-match)
@@ -15,13 +18,9 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Islamabad Region vs Multan Region, 4th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561017-islamabad-region-vs-multan-region-4th-match)
 - [Sri Lanka vs Pakistan Cricket Board Patron's XI, Tour Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1553591-pakistan-cricket-board-patron-s-xi-vs-sri-lanka-tour-match)
 - [Ireland A vs Zimbabwe A, 1st unofficial Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558236-zimbabwe-a-vs-ireland-a-1st-unofficial-test)
-- [India Under-19s vs Nepal Under-19s, 4th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558433-india-under-19s-vs-nepal-under-19s-4th-match)
-- [Pakistan Under-19s vs United Arab Emirates Under-19s, 3rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558432-pakistan-under-19s-vs-united-arab-emirates-under-19s-3rd-match)
-- [Uganda Women vs Namibia Women, 1st Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560718-uganda-women-vs-namibia-women-1st-match)
-- [Karnali Yaks (NPL) vs Sudur Paschim Royals (NPL), 16th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558597-karnali-yaks-npl-vs-sudur-paschim-royals-npl-16th-match)
-- [Matabeleland Tuskers vs Mid West Rhinos, 10th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559690-matabeleland-tuskers-vs-mid-west-rhinos-10th-match)
+- [Sudur Paschim Royals (NPL) vs Karnali Yaks (NPL), 16th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558597-karnali-yaks-npl-vs-sudur-paschim-royals-npl-16th-match)
 - [Mountaineers vs Southern Rocks, 9th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559689-mountaineers-vs-southern-rocks-9th-match)
-- [Melbourne Stars Women vs Sydney Sixers Women, 12th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543955-melbourne-stars-women-vs-sydney-sixers-women-12th-match)
+- [Mid West Rhinos vs Matabeleland Tuskers, 10th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559690-matabeleland-tuskers-vs-mid-west-rhinos-10th-match)
 - [Chitwan Rhinos (NPL) vs Pokhara Avengers (NPL), 17th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558598-chitwan-rhinos-npl-vs-pokhara-avengers-npl-17th-match)
 - [Rwanda Women vs United States of America Women, 2nd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560719-rwanda-women-vs-united-states-of-america-women-2nd-match)
 - [Easterns vs Dolphins, Super Eights — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1551896-tba-vs-tba-super-eights)
@@ -46,9 +45,11 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Emirates Eagles vs Royal Desert Champions, 2nd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561251-emirates-eagles-vs-royal-desert-champions-2nd-match)
 - [Arabian Aces vs United Tigers, 3rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561252-arabian-aces-vs-united-tigers-3rd-match)
 - [Western Province vs Lions, Super Eights — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1551898-tba-vs-tba-super-eights)
+- [West Indies A vs England Lions, 1st unofficial ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558812-west-indies-a-vs-england-lions-1st-unofficial-odi)
 
 ## Recent results
 
+- [Nepal Under-19s vs India Under-19s, 4th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1558433-india-under-19s-vs-nepal-under-19s-4th-match)
 - [Boland vs Warriors, Super Eights](https://a2zmatdaan.github.io/cricvega.github.io/match/1551895-tba-vs-tba-super-eights)
 - [Biratnagar Kings (NPL) vs Kathmandu Gorkhas (NPL), 15th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1558596-biratnagar-kings-npl-vs-kathmandu-gorkhas-npl-15th-match)
 - [Perth Scorchers Women vs Sydney Thunder Women, 11th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1543954-sydney-thunder-women-vs-perth-scorchers-women-11th-match)
@@ -68,7 +69,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Pokhara Avengers (NPL) vs Lumbini Lions (NPL), 13th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1558594-lumbini-lions-npl-vs-pokhara-avengers-npl-13th-match)
 - [Biratnagar Kings (NPL) vs Janakpur Bolts (NPL), 12th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1558593-biratnagar-kings-npl-vs-janakpur-bolts-npl-12th-match)
 - [Abbottabad Region vs Sialkot Region Whites, Group B](https://a2zmatdaan.github.io/cricvega.github.io/match/1561213-abbottabad-region-vs-sialkot-region-whites-group-b)
-- [Bahawalpur Region vs Peshawar Region Whites, Group A](https://a2zmatdaan.github.io/cricvega.github.io/match/1561210-bahawalpur-region-vs-peshawar-region-whites-group-a)
 
 ## Series
 
