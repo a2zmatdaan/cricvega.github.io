@@ -7,9 +7,11 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [Pakistan vs Sri Lanka, 1st Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1550711-pakistan-vs-sri-lanka-1st-test)
+- [Uganda Women vs Rwanda Women, 9th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560726-uganda-women-vs-rwanda-women-9th-match)
 - [New South Wales vs South Australia, 10th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544873-new-south-wales-vs-south-australia-10th-match)
 - [Victoria vs Western Australia, 11th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544874-victoria-vs-western-australia-11th-match)
 - [Queensland vs Tasmania, 12th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544875-queensland-vs-tasmania-12th-match)
+- [Sydney Thunder Women vs Perth Scorchers Women, 18th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543961-perth-scorchers-women-vs-sydney-thunder-women-18th-match)
 - [Bahawalpur Region vs Quetta Region, Group A — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561214-bahawalpur-region-vs-quetta-region-group-a)
 - [Sialkot Region Whites vs Karachi Region Whites, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561218-karachi-region-whites-vs-sialkot-region-whites-group-b)
 - [Lahore Region Blues vs Peshawar Region Whites, Group A — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561215-lahore-region-blues-vs-peshawar-region-whites-group-a)
@@ -18,10 +20,9 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Faisalabad Region vs Sialkot Region Blues, 6th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561019-sialkot-region-blues-vs-faisalabad-region-6th-match)
 - [Lahore Region Whites vs Islamabad Region, 7th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561020-islamabad-region-vs-lahore-region-whites-7th-match)
 - [Peshawar Region Blues vs Federally Administered Tribal Areas, 8th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561021-federally-administered-tribal-areas-vs-peshawar-region-blues-8th-match)
-- [Uganda Women vs Rwanda Women, 9th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560726-uganda-women-vs-rwanda-women-9th-match)
-- [Perth Scorchers Women vs Sydney Thunder Women, 18th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543961-perth-scorchers-women-vs-sydney-thunder-women-18th-match)
 - [Namibia Women vs United States of America Women, 10th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560727-namibia-women-vs-united-states-of-america-women-10th-match)
 - [Boland vs Lions, Super Eights — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559994-boland-vs-lions-super-eights)
+- [West Indies A vs England Lions, 3rd unofficial ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558814-west-indies-a-vs-england-lions-3rd-unofficial-odi)
 - [Royal Desert Champions vs UAE Bulls, 11th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561260-royal-desert-champions-vs-uae-bulls-11th-match)
 - [Arabian Aces vs Yas Lions, 12th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561261-arabian-aces-vs-yas-lions-12th-match)
 - [Titans vs Warriors, Super Eights — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559995-titans-vs-warriors-super-eights)
@@ -45,7 +46,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Australia vs England, 1st ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1528703-australia-vs-england-1st-odi)
 - [Scotland Women vs Sri Lanka Women, 5th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557547-scotland-women-vs-sri-lanka-women-5th-match)
 - [United Arab Emirates Women vs Ireland Women, 6th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557548-ireland-women-vs-united-arab-emirates-women-6th-match)
-- [Afghanistan vs Zimbabwe, 2nd Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555124-afghanistan-vs-zimbabwe-2nd-test)
 
 ## Recent results
 
@@ -80,6 +80,7 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Quaid-e-Azam Trophy Gold 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/1561011-quaid-e-azam-trophy-gold-2026-27)
 - [Victoria Women T20 Series](https://a2zmatdaan.github.io/cricvega.github.io/series/21353-victoria-women-t20-series)
 - [South Africa Domestic T20/Pro20](https://a2zmatdaan.github.io/cricvega.github.io/series/8656-south-africa-domestic-t20-pro20)
+- [England Lions tour of West Indies 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24841-england-lions-tour-of-west-indies-2026-27)
 - [India A tour of New Zealand 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24805-india-a-tour-of-new-zealand-2026-27)
 - [National Cricket League](https://a2zmatdaan.github.io/cricvega.github.io/series/8814-national-cricket-league)
 - [India tour of New Zealand 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24469-india-tour-of-new-zealand-2026-27)
@@ -90,7 +91,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Ireland A tour of Zimbabwe 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24826-ireland-a-tour-of-zimbabwe-2026-27)
 - [West Indies tour of Bangladesh 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24756-west-indies-tour-of-bangladesh-2026-27)
 - [Zimbabwe tour of United Arab Emirates 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24799-zimbabwe-tour-of-united-arab-emirates-2026-27)
-- [England Lions tour of West Indies 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24841-england-lions-tour-of-west-indies-2026-27)
 - [England tour of Australia 2026/27](https://a2zmatdaan.github.io/cricvega.github.io/series/24273-england-tour-of-australia-2026-27)
 - [Pro50 Championship](https://a2zmatdaan.github.io/cricvega.github.io/series/8838-pro50-championship)
 - [Hong Kong Premier League One-Day Tournament](https://a2zmatdaan.github.io/cricvega.github.io/series/19482-hong-kong-premier-league-one-day-tournament)
