@@ -7,20 +7,17 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [Pakistan vs Sri Lanka, 1st Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1550711-pakistan-vs-sri-lanka-1st-test)
+- [New Zealand vs India, 4th ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1539440-new-zealand-vs-india-4th-odi)
+- [England vs Australia, 1st ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1528703-australia-vs-england-1st-odi)
+- [Zimbabwe vs Afghanistan, 2nd Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555124-afghanistan-vs-zimbabwe-2nd-test)
 - [New South Wales vs South Australia, 10th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544873-new-south-wales-vs-south-australia-10th-match)
 - [Victoria vs Western Australia, 11th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544874-victoria-vs-western-australia-11th-match)
 - [Queensland vs Tasmania, 12th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544875-queensland-vs-tasmania-12th-match)
 - [Ireland A vs Zimbabwe A, 2nd unofficial Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558237-zimbabwe-a-vs-ireland-a-2nd-unofficial-test)
-- [New Zealand vs India, 4th ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1539440-new-zealand-vs-india-4th-odi)
-- [Australia vs England, 1st ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1528703-australia-vs-england-1st-odi)
-- [Scotland Women vs Sri Lanka Women, 5th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557547-scotland-women-vs-sri-lanka-women-5th-match)
-- [United Arab Emirates Women vs Ireland Women, 6th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557548-ireland-women-vs-united-arab-emirates-women-6th-match)
-- [Afghanistan vs Zimbabwe, 2nd Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555124-afghanistan-vs-zimbabwe-2nd-test)
-- [Kathmandu Gorkhas (NPL) vs Sudur Paschim Royals (NPL), 24th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558605-kathmandu-gorkhas-npl-vs-sudur-paschim-royals-npl-24th-match)
-- [Mashonaland Eagles vs Mountaineers, 13th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559693-mashonaland-eagles-vs-mountaineers-13th-match)
-- [Southern Rocks vs Mid West Rhinos, 14th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559694-southern-rocks-vs-mid-west-rhinos-14th-match)
-- [Bangladesh Women vs Zimbabwe Women, 8th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557550-bangladesh-women-vs-zimbabwe-women-8th-match)
+- [Sudur Paschim Royals (NPL) vs Kathmandu Gorkhas (NPL), 24th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558605-kathmandu-gorkhas-npl-vs-sudur-paschim-royals-npl-24th-match)
+- [Mid West Rhinos vs Southern Rocks, 14th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1559694-southern-rocks-vs-mid-west-rhinos-14th-match)
 - [Pakistan Women vs Thailand Women, 7th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557549-thailand-women-vs-pakistan-women-7th-match)
+- [Bangladesh Women vs Zimbabwe Women, 8th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557550-bangladesh-women-vs-zimbabwe-women-8th-match)
 - [Chitwan Rhinos (NPL) vs Janakpur Bolts (NPL), 25th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558606-chitwan-rhinos-npl-vs-janakpur-bolts-npl-25th-match)
 - [Emirates Eagles vs United Tigers, 13th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561262-emirates-eagles-vs-united-tigers-13th-match)
 - [Royal Desert Champions vs Yas Lions, 14th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561263-royal-desert-champions-vs-yas-lions-14th-match)
@@ -44,11 +41,16 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Mizoram vs Jharkhand, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546661-mizoram-vs-jharkhand-elite)
 - [Saurashtra vs Bihar, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546663-saurashtra-vs-bihar-elite)
 - [Tripura vs Andhra, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546668-tripura-vs-andhra-elite)
-- [TBA vs TBA, 3rd place play-off — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560730-tba-vs-tba-3rd-place-play-off)
+- [Namibia Women vs United States of America Women, 3rd place play-off — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560730-tba-vs-tba-3rd-place-play-off)
 - [Services vs Sikkim, Plate Group — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546677-services-vs-sikkim-plate-group)
+- [Warriors vs Boland, 1st Semi-Final — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555481-tba-vs-tba-1st-semi-final)
+- [Himachal Pradesh vs Assam, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546669-himachal-pradesh-vs-assam-elite)
+- [Railways vs Tamil Nadu, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546664-railways-vs-tamil-nadu-elite)
 
 ## Recent results
 
+- [Scotland Women vs Sri Lanka Women, 5th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557547-scotland-women-vs-sri-lanka-women-5th-match)
+- [Ireland Women vs United Arab Emirates Women, 6th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557548-ireland-women-vs-united-arab-emirates-women-6th-match)
 - [Namibia Women vs Rwanda Women, 12th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1560729-namibia-women-vs-rwanda-women-12th-match)
 - [Karnali Yaks (NPL) vs Lumbini Lions (NPL), 23rd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1558604-karnali-yaks-npl-vs-lumbini-lions-npl-23rd-match)
 - [Bangladesh Women vs Pakistan Women, 3rd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557545-bangladesh-women-vs-pakistan-women-3rd-match)
@@ -67,8 +69,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Yas Lions vs Arabian Aces, 12th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1561261-arabian-aces-vs-yas-lions-12th-match)
 - [Titans vs Warriors, Super Eights](https://a2zmatdaan.github.io/cricvega.github.io/match/1559995-titans-vs-warriors-super-eights)
 - [UAE Bulls vs Royal Desert Champions, 11th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1561260-royal-desert-champions-vs-uae-bulls-11th-match)
-- [West Indies A vs England Lions, 3rd unofficial ODI](https://a2zmatdaan.github.io/cricvega.github.io/match/1558814-west-indies-a-vs-england-lions-3rd-unofficial-odi)
-- [Namibia Women vs United States of America Women, 10th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1560727-namibia-women-vs-united-states-of-america-women-10th-match)
 
 ## Series
 
