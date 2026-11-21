@@ -7,9 +7,9 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [New Zealand vs India, 1st Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1539442-new-zealand-vs-india-1st-test)
-- [Auckland vs Northern Districts, 1st Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1552533-northern-districts-vs-auckland-1st-match)
 - [Wellington vs Central Districts, 2nd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1552534-central-districts-vs-wellington-2nd-match)
 - [Canterbury vs Otago, 3rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1552535-otago-vs-canterbury-3rd-match)
+- [Perth Scorchers Women vs Sydney Sixers Women, 30th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543973-sydney-sixers-women-vs-perth-scorchers-women-30th-match)
 - [Bloomfield Cricket and Athletic Club vs Panadura Sports Club, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560151-bloomfield-cricket-and-athletic-club-vs-panadura-sports-club-group-b)
 - [Tamil Union Cricket and Athletic Club vs Colombo Cricket Club, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560150-colombo-cricket-club-vs-tamil-union-cricket-and-athletic-club-group-b)
 - [Burgher Recreation Club vs Kurunegala Youth Cricket Club, Group A — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1560148-kurunegala-youth-cricket-club-vs-burgher-recreation-club-group-a)
@@ -22,9 +22,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Dolphins vs Western Province, 10th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1551670-dolphins-vs-western-province-10th-match)
 - [Boland vs Knights, 11th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1551671-knights-vs-boland-11th-match)
 - [Lions vs North West, 12th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1551672-north-west-vs-lions-12th-match)
-- [Hobart Hurricanes Women vs Sydney Thunder Women, 29th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543972-hobart-hurricanes-women-vs-sydney-thunder-women-29th-match)
-- [China Women vs Indonesia Women, 2nd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1562326-china-women-vs-indonesia-women-2nd-match)
-- [Sydney Sixers Women vs Perth Scorchers Women, 30th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543973-sydney-sixers-women-vs-perth-scorchers-women-30th-match)
 - [Abbottabad Region vs Karachi Region Whites, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561230-abbottabad-region-vs-karachi-region-whites-group-b)
 - [Bahawalpur Region vs Lahore Region Blues, Group A — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561227-bahawalpur-region-vs-lahore-region-blues-group-a)
 - [Hyderabad Region vs Sialkot Region Whites, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561229-hyderabad-region-vs-sialkot-region-whites-group-b)
@@ -46,9 +43,14 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Hong Kong Cricket Club vs Diasqua Little Sai Wan Cricket Club, 10th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1555417-hong-kong-cricket-club-vs-diasqua-little-sai-wan-cricket-club-10th-match)
 - [Malaysia Women vs China Women, 3rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1562327-malaysia-women-vs-china-women-3rd-match)
 - [Services vs Manipur, Plate Group — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546751-services-vs-manipur-plate-group)
+- [Sikkim vs Meghalaya, Plate Group — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546752-sikkim-vs-meghalaya-plate-group)
+- [Vidarbha vs Gujarat, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546747-vidarbha-vs-gujarat-elite)
+- [Himachal Pradesh vs Tripura, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546743-himachal-pradesh-vs-tripura-elite)
 
 ## Recent results
 
+- [Indonesia Women vs China Women, 2nd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1562326-china-women-vs-indonesia-women-2nd-match)
+- [Sydney Thunder Women vs Hobart Hurricanes Women, 29th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1543972-hobart-hurricanes-women-vs-sydney-thunder-women-29th-match)
 - [UAE Bulls vs Yas Lions, Final](https://a2zmatdaan.github.io/cricvega.github.io/match/1561281-tba-vs-tba-final)
 - [Arabian Aces vs UAE Bulls, Qualifier](https://a2zmatdaan.github.io/cricvega.github.io/match/1561280-tba-vs-tba-qualifier)
 - [Puducherry vs Himachal Pradesh, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546727-himachal-pradesh-vs-puducherry-elite)
@@ -67,8 +69,6 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Pakistan A vs United Arab Emirates, 3rd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1562344-pakistan-a-vs-united-arab-emirates-3rd-match)
 - [Jammu & Kashmir vs Bihar, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546721-jammu-and-kashmir-vs-bihar-elite)
 - [Karnataka vs Jharkhand, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546717-karnataka-vs-jharkhand-elite)
-- [Andhra vs Madhya Pradesh, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546725-madhya-pradesh-vs-andhra-elite)
-- [Uttarakhand vs Odisha, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546729-uttarakhand-vs-odisha-elite)
 
 ## Series
 
