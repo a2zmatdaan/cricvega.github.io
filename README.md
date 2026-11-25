@@ -7,13 +7,10 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 ## 🔴 Live & upcoming matches (auto-updated)
 
 - [Bangladesh vs South Africa, 2nd Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1525663-south-africa-vs-bangladesh-2nd-test)
-- [Queensland vs New South Wales, 13th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544876-new-south-wales-vs-queensland-13th-match)
 - [Tasmania vs Western Australia, 14th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544877-western-australia-vs-tasmania-14th-match)
 - [South Australia vs Victoria, 15th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1544878-south-australia-vs-victoria-15th-match)
-- [Malaysia Women vs China Women, 6th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1562330-malaysia-women-vs-china-women-6th-match)
-- [Ireland Women vs Sri Lanka Women, Final — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557572-tba-vs-tba-final)
+- [Brisbane Heat Women vs Melbourne Renegades Women, 33rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543976-melbourne-renegades-women-vs-brisbane-heat-women-33rd-match)
 - [Zimbabwe A vs Ireland A, 4th unofficiaial ODI — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1558241-zimbabwe-a-vs-ireland-a-4th-unofficiaial-odi)
-- [Melbourne Renegades Women vs Brisbane Heat Women, 33rd Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1543976-melbourne-renegades-women-vs-brisbane-heat-women-33rd-match)
 - [Dubai Capitals vs Desert Vipers, 6th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1557448-dubai-capitals-vs-desert-vipers-6th-match)
 - [Uttarakhand vs Mumbai, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546783-uttarakhand-vs-mumbai-elite)
 - [Madhya Pradesh vs Puducherry, Elite — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1546779-madhya-pradesh-vs-puducherry-elite)
@@ -46,9 +43,14 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Otago vs Wellington, 5th Match — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1552537-otago-vs-wellington-5th-match)
 - [New Zealand vs India, 2nd Test — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1539443-new-zealand-vs-india-2nd-test)
 - [TBA vs TBA, Final — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1562331-tba-vs-tba-final)
+- [Abbottabad Region vs Pakistan-administered Kashmir Region, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561236-abbottabad-region-vs-pakistan-administered-kashmir-region-group-b)
+- [Bahawalpur Region vs Rawalpindi Region, Group A — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561233-bahawalpur-region-vs-rawalpindi-region-group-a)
+- [Dera Murad Jamali Region vs Sialkot Region Whites, Group B — Preview](https://a2zmatdaan.github.io/cricvega.github.io/match/1561237-dera-murad-jamali-region-vs-sialkot-region-whites-group-b)
 
 ## Recent results
 
+- [Ireland Women vs Sri Lanka Women, Final](https://a2zmatdaan.github.io/cricvega.github.io/match/1557572-tba-vs-tba-final)
+- [Malaysia Women vs China Women, 6th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1562330-malaysia-women-vs-china-women-6th-match)
 - [Sharjah Warriorz vs Desert Vipers, 4th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557446-sharjah-warriorz-vs-desert-vipers-4th-match)
 - [Bangladesh A vs Sri Lanka A, 10th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1562351-sri-lanka-a-vs-bangladesh-a-10th-match)
 - [Scotland Women vs Zimbabwe Women, 8th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557570-tba-vs-tba-super-six)
@@ -63,12 +65,10 @@ Website: https://a2zmatdaan.github.io/cricvega.github.io/ — free live cricket 
 - [Uttar Pradesh vs Jharkhand, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546738-uttar-pradesh-vs-jharkhand-elite)
 - [Pakistan A vs India A, 8th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1562349-india-a-vs-pakistan-a-8th-match)
 - [Gulf Giants vs Sharjah Warriorz, 2nd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557444-sharjah-warriorz-vs-gulf-giants-2nd-match)
+- [Scotland Women vs Pakistan Women, 5th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557567-tba-vs-tba-super-six)
 - [Zimbabwe Women vs Ireland Women, 6th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1557568-tba-vs-tba-super-six)
 - [Melbourne Stars Women vs Melbourne Renegades Women, 32nd Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1543975-melbourne-renegades-women-vs-melbourne-stars-women-32nd-match)
 - [Punjab vs Jammu & Kashmir, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546741-jammu-and-kashmir-vs-punjab-elite)
-- [Karnataka vs Chandigarh, Elite](https://a2zmatdaan.github.io/cricvega.github.io/match/1546737-karnataka-vs-chandigarh-elite)
-- [KwaZulu-Natal Inland vs Limpopo, 8th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1551796-limpopo-vs-kwazulu-natal-inland-8th-match)
-- [South Western Districts vs Border, 7th Match](https://a2zmatdaan.github.io/cricvega.github.io/match/1551795-south-western-districts-vs-border-7th-match)
 
 ## Series
 
